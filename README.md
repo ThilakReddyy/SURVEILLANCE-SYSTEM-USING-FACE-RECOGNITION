@@ -81,7 +81,6 @@ This project was inspired by the need for enhanced security on college campuses 
 - [Dlib](http://dlib.net/)
 - [TensorFlow](https://www.tensorflow.org/)
 
-Special thanks to the developers and contributors of these open-source projects.
 
 ## Contact
 
